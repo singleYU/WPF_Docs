@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T06:07:49.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="51f8UEGT04OtQIusxyMY" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T06:09:10.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="hCxSaEAnQB7VlH1DSldo" version="14.8.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R9U-iux0W0cLTJDINrRn-132" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="R9U-iux0W0cLTJDINrRn-132" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="680" y="255" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R9U-iux0W0cLTJDINrRn-131" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="R9U-iux0W0cLTJDINrRn-131" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="660" y="140" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9U-iux0W0cLTJDINrRn-130" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="R9U-iux0W0cLTJDINrRn-118" value="光电" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="492" y="129" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R9U-iux0W0cLTJDINrRn-119" value="光电" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="R9U-iux0W0cLTJDINrRn-119" value="摄像头" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="670" y="266" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9U-iux0W0cLTJDINrRn-120" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;设备引导服务&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;设备指令发送&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;多用户协调&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=1;fillColor=#E6FFCC" parent="1" vertex="1">
@@ -142,7 +142,7 @@
             <mxPoint x="535" y="189" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9U-iux0W0cLTJDINrRn-128" value="光电" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="R9U-iux0W0cLTJDINrRn-128" value="红外" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="650" y="150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9U-iux0W0cLTJDINrRn-129" value="" style="endArrow=classic;html=1;strokeColor=#99004D;strokeWidth=2;exitX=0.985;exitY=0.104;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="R9U-iux0W0cLTJDINrRn-120" target="R9U-iux0W0cLTJDINrRn-128" edge="1">
