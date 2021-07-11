@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T02:32:52.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.5" etag="NDtUi6JYIXJkGTJNRMmC" type="github"><diagram id="DBjaGHlbv56zpEwHnNxs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-11T04:16:45.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="31UIhaDxR8wduyYPQleB" version="14.8.5" type="github">
+  <diagram id="DBjaGHlbv56zpEwHnNxs" name="第 1 页">
+    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6y3aFnf4OsDR-z14R65K-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;综合管理平台&lt;br style=&quot;font-size: 18px&quot;&gt;（综合执法执勤点）&lt;br style=&quot;font-size: 18px&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontColor=#006600;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-3" value="综合管理平台&lt;br style=&quot;font-size: 18px;&quot;&gt;（指挥中心）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontColor=#00331A;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-4" value="光纤、IOT、4/5G" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;glass=0;shadow=0;gradientDirection=north;gradientColor=#ffffff;fontColor=#663300;strokeWidth=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="870" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-5" value="数据传输系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="100" y="185" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-9" value="雷达数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-10" value="水文数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-11" value="执法信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="490" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-12" value="定位数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-13" value="告警信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-14" value="装备信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-15" value="影像数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="390" y="159" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-16" value="人员信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#B05800;" vertex="1" parent="1">
+          <mxGeometry x="490" y="159" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-17" value="指挥信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="590" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-18" value="执法决定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-19" value="设备控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-20" value="设备控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="590" y="159" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-21" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;strokeWidth=2;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#994C00;strokeColor=#994C00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="180" as="sourcePoint" />
+            <mxPoint x="475" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6y3aFnf4OsDR-z14R65K-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=16;strokeWidth=2;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontColor=#994C00;strokeColor=#0066CC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="578" y="60" as="sourcePoint" />
+            <mxPoint x="578" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
