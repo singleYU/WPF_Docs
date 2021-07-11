@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T05:54:44.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="mpY3ioP9WRS5Yeh2H5Xy" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T08:04:03.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="uAL41mCG6A6sf1-WCJ71" version="14.8.5" type="github">
   <diagram id="sQcaDlpvSEKhb7I3R9dC" name="第 1 页">
-    <mxGraphModel dx="1204" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="p9WKnUkofUUKUgiozpQW-70" value="指挥调度系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;gradientDirection=south;strokeWidth=0;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1618" y="504" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p9WKnUkofUUKUgiozpQW-71" value="视频监控系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;gradientDirection=south;strokeWidth=0;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="p9WKnUkofUUKUgiozpQW-71" value="视频汇聚系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;gradientDirection=south;strokeWidth=0;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1750" y="504" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p9WKnUkofUUKUgiozpQW-72" value="设备管理系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;gradientDirection=south;strokeWidth=0;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
@@ -307,28 +307,28 @@
         <mxCell id="p9WKnUkofUUKUgiozpQW-168" value="视频设备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2050" y="926" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-1" value="涉水信息数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=0;gradientDirection=east;fillColor=#99CCFF;gradientColor=#ffffff;fontColor=#0066CC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-1" value="涉水信息数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=0;gradientDirection=east;fillColor=#99CCFF;gradientColor=#ffffff;fontColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1457.5" y="703" width="371" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2056" y="564" width="104" height="298" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-4" value="AI中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0066CC;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-4" value="AI中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2070" y="574" width="73" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-18" value="水面目标分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-18" value="水面目标分类" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="2062" y="607" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-19" value="人员行为识别" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-19" value="人员行为识别" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="2062" y="662" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-20" value="违法行为预警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-20" value="违法行为预警" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="2061.5" y="716" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-21" value="水文环境预测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-21" value="水文环境预测" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="2062" y="822" width="93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cB6SfMdCsRi0S6gnooBf-22" value="重点人员布控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="cB6SfMdCsRi0S6gnooBf-22" value="重点人员布控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;gradientDirection=north;fontSize=14;gradientColor=#ffa500;strokeWidth=0;fillColor=#ffcd28;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="2061.5" y="772" width="93" height="30" as="geometry" />
         </mxCell>
       </root>
