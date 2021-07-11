@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T08:32:50.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="PLbg4PsYVSvT5kwn1kVE" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T08:39:34.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="AoEDjzO9buZFpBE9np5O" version="14.8.5" type="github">
   <diagram id="DBjaGHlbv56zpEwHnNxs" name="第 1 页">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,16 +284,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6y3aFnf4OsDR-z14R65K-93" value="渔具影像/实物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="710" y="240" width="100" height="20" as="geometry" />
+          <mxGeometry x="710" y="230" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6y3aFnf4OsDR-z14R65K-94" value="渔获影像/实物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="710" y="280" width="100" height="20" as="geometry" />
+          <mxGeometry x="710" y="260" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6y3aFnf4OsDR-z14R65K-95" value="鉴定结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#B5739D;" parent="1" vertex="1">
           <mxGeometry x="900" y="270" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6y3aFnf4OsDR-z14R65K-96" value="执法信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#B5739D;" parent="1" vertex="1">
           <mxGeometry x="616.5" y="533" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NW9d1ta-AY4mOvUr2B7p-1" value="渔法视频" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="710" y="290" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
