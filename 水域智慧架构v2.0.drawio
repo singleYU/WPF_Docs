@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T08:04:03.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="uAL41mCG6A6sf1-WCJ71" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T08:15:50.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="M0ypDoktF0zVC_93QvFe" version="14.8.5" type="github">
   <diagram id="sQcaDlpvSEKhb7I3R9dC" name="第 1 页">
     <mxGraphModel dx="595" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="p9WKnUkofUUKUgiozpQW-84" value="要素显示" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=south;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#006600;strokeWidth=0;fontColor=#994C00;" parent="1" vertex="1">
           <mxGeometry x="1644.75" y="454" width="97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="p9WKnUkofUUKUgiozpQW-85" value="巡查记录" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=south;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#006600;strokeWidth=0;fontColor=#994C00;" parent="1" vertex="1">
+        <mxCell id="p9WKnUkofUUKUgiozpQW-85" value="巡查实况" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=south;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#006600;strokeWidth=0;fontColor=#994C00;" parent="1" vertex="1">
           <mxGeometry x="1763.75" y="454" width="97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p9WKnUkofUUKUgiozpQW-86" value="设备管理" style="rounded=0;whiteSpace=wrap;html=1;gradientDirection=south;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#006600;strokeWidth=0;fontColor=#994C00;" parent="1" vertex="1">
