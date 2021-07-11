@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T02:30:57.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="7fjZJ4erhPU2or6a2BBg" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T03:37:29.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="0kDvzfQUtZG0N1UnkbCp" version="14.8.5" type="github">
   <diagram id="lfhqvckKgLM2cjNnIEko" name="第 1 页">
-    <mxGraphModel dx="2370" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,10 +53,10 @@
           <mxGeometry x="490" y="886" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="riUGvwOyYSGT4rN2oZo8-25" value="光电" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#003366;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="605" y="886" width="40" height="20" as="geometry" />
+          <mxGeometry x="563.75" y="886" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="riUGvwOyYSGT4rN2oZo8-26" value="红外" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#003366;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="886" width="40" height="20" as="geometry" />
+          <mxGeometry x="640" y="886" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="riUGvwOyYSGT4rN2oZo8-27" value="执&lt;br&gt;法&lt;br&gt;装&lt;br&gt;备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;fontColor=#003366;fontFamily=Times New Roman;fontSize=18;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="906.25" y="666" width="50" height="170" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="riUGvwOyYSGT4rN2oZo8-34" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="956.25" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riUGvwOyYSGT4rN2oZo8-36" value="摄像头" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#003366;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="702" y="886" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
