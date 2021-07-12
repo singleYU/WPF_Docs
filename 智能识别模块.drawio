@@ -1,10 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T14:40:03.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="Rg-5ICfqeaZvd4nNoB8S" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T14:41:44.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="C8ge0tGq3Rbgh5rLvhWz" version="14.8.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R9U-iux0W0cLTJDINrRn-130" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="IR85glNcwhPEIRknHeb9-98" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="110" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR85glNcwhPEIRknHeb9-97" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#FFFFCC;strokeColor=#999900;" vertex="1" parent="1">
+          <mxGeometry x="79.5" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR85glNcwhPEIRknHeb9-96" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="259.5" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R9U-iux0W0cLTJDINrRn-130" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="502" y="120" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9U-iux0W0cLTJDINrRn-101" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#FFFFCC;strokeColor=#999900;" parent="1" vertex="1">
@@ -82,7 +91,7 @@
             <mxPoint x="488" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9U-iux0W0cLTJDINrRn-118" value="光电" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="R9U-iux0W0cLTJDINrRn-118" value="光电" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="492" y="129" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9U-iux0W0cLTJDINrRn-120" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;设备引导服务&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;设备指令发送&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;多用户协调&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=1;fillColor=#E6FFCC" parent="1" vertex="1">
